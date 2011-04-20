@@ -1,9 +1,9 @@
 # What is Uglybox?
 
 Uglybox is a self-hosting JavaScript sandbox. It's inspired by
-Gareth Hayes' (JSReg)[https://code.google.com/p/jsreg/]. The main
+Gareth Hayes' [JSReg](https://code.google.com/p/jsreg/). The main
 difference is that we use parse-js
-from (UglifyJS)[https://github.com/mishoo/UglifyJS/] to parse the
+from [UglifyJS](https://github.com/mishoo/UglifyJS/) to parse the
 source instead of regular expressions.
 
 # Status
@@ -65,13 +65,13 @@ functionality that would allow somebody to break out of the sandbox.
 Copyright (c) 2011 Stefan Thomas <justmoon@members.fsf.org>
 
 Uglybox is dual-licensed under the
-(GPLv3)[http://www.gnu.org/licenses/gpl-3.0.html] and
-(MIT)[http://creativecommons.org/licenses/MIT/] licenses. Text
+[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) and
+[MIT](http://creativecommons.org/licenses/MIT/) licenses. Text
 versions of both licenses are included in this release.
 
 # Contributing
 
 If you find bugs, exploits etc., please open an issue on
-(Github)[https://github.com/justmoon/uglybox].
+[Github](https://github.com/justmoon/uglybox).
 
 
