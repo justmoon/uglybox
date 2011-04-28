@@ -11,6 +11,19 @@ source instead of regular expressions.
 This version of Uglybox is a very early prototype. It is broken and
 completely insecure. The API is not yet final.
 
+# Installation
+
+Prerequisites are Node.js and git.
+
+    git clone git://github.com/justmoon/uglybox.git --recursive
+
+# Examples
+
+Several examples on how to use the library are provided in the
+`examples/` folder. To run an example simply call it with node:
+
+    node examples/helloworld.js
+
 # Usage
 
 ## Sandboxed eval()
