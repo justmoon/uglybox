@@ -30,7 +30,7 @@ browser. Note that obviously you have to trust your server.
 On the server:
 
     var sandbox = new Sandbox();
-    var compiledCode = sandbox.compiled(myCode);
+    var compiledCode = sandbox.compile(myCode);
 
 On the client:
 
